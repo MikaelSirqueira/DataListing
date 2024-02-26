@@ -3,14 +3,16 @@
   
 ## 💻 Projeto 
 
-- Desenvolvimento de uma interface para listagem de dados, concentrando-se na quantidade de vídeos associados a diferentes temas, denominados tags.
+- Desenvolvimento de uma interface para listar dados, com foco na quantidade de vídeos associados a diferentes temas, denominados tags.
 
-- Implementação da funcionalidade de cadastro de tags, com a geração do Slug automaticamente.
-    - O Slug é uma representação textual que será incorporada à URL, não permitindo espaços ou caracteres especiais, garantindo uma navegação eficaz.
+- Implementação da funcionalidade de cadastro de tags, gerando automaticamente o Slug.
+    - O Slug é uma representação textual que será incorporada à URL, sem espaços ou caracteres especiais.
 
-- Abordagem da funcionalidade de paginação para melhor organizar a lista de dados, permitindo uma navegação mais fluida pelos resultados.
-  
-- Implementação do uso de URL State, onde a página atual é refletida na URL, facilitando a navegação direta para uma página específica da lista de dados.
+- Adição da opção de filtrar por tag.
+
+- Utilização da funcionalidade de paginação para organizar melhor a lista de dados, possibilitando uma navegação mais fluida pelos resultados.
+
+- Implementação do uso de URL State, refletindo a página atual na URL, facilitando a navegação direta para uma página específica da lista de dados.
 
 <br>
 
